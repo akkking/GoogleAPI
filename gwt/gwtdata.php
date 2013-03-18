@@ -1,9 +1,9 @@
 
-
 <?php
 	/**
 	 *  PHP class for downloading CSV files from Google Webmaster Tools.
-	 *
+	 *  This file has been changed by Aizizi Yigaimu to meet more requirements
+	 *  
 	 *  This class does NOT require the Zend gdata package be installed
 	 *  in order to run.
 	 *
